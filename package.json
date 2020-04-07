@@ -1,0 +1,27 @@
+{
+    "name": "backendexercise",
+    "version": "1.0.0",
+    "description": "server practice exercise",
+    "main": "backend.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/seidoo99/backendExercise.git"
+    },
+    "keywords": [
+        "backend",
+        "server"
+    ],
+    "author": "seid",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/seidoo99/backendExercise/issues"
+    },
+    "homepage": "https://github.com/seidoo99/backendExercise#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1"
+    }
+}
